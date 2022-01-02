@@ -1,105 +1,56 @@
- 
-.dropdown-item {
-    padding: 0.25rem 0.8rem;
+body {
+  margin: 0px;
 }
-a,
-a:hover{
-    text-decoration: none;
+.footerall {
+  color: #707070;
 }
-.slider{
-    padding: 23px 0;
+.footer-part1 {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #282828;
 }
-.slider_wrapper{
-    margin: auto;
+h4 {
+  color: #ff9900;
+  font-size: 21px;
 }
-.bg-dark
-{
-  background-color: #1C1252!important;
+.ceo {
+  padding-left: 270px;
 }
-.up_nav
-{
-  background-color: rgb(10, 10, 31) !important;
+.footer-part1-2 img {
+  width: 35px;
+  height: 35px;
 }
-.socialMedia
-{
-    width: 20px;
-    height: 20px;
-    margin-left: 2px ;
+.footer-icon {
+  display: flex;
+  margin: 10px 0px;
 }
-.follow
-{
-    color: white;
+.footer-icon img {
+  margin-right: 10px;
 }
-.slider .product_box{
-    display: block;
-    position: relative;
-    background-color: #f0f0f0;
+.footer-part1-3 img {
+  width: 35px;
+  height: 35px;
 }
-.slider .owl-carousel .owl-item img  {
-    max-height: 340px;
-    /* max-width: 289px; */
-}    
-.slider .owl-item{
-    margin: auto;
-    overflow: hidden;
+/****************** part 2*********************************/
+.footer-part2 {
+  background-color: #221e1b;
+  height: 75px;
+  display: flex;
+  justify-content: space-evenly;
 }
-.slider .product_image {
-    min-height: 340px;
-
+.footer-part2 * {
+  margin: 15px;
 }
-.slider .product_title{
-    text-align: center;
-    position: relative;
-    bottom: 0;
+.line {
+  width: 1px;
+  height: 20px;
+  background-color: #707070;
 }
-
-.product .card
-{
-  display: inline-block;
-  margin: 17px;
-
+.footer-part2-1 {
+  display: flex;
+  justify-content: space-between;
 }
- 
-.card .card-body{
-    position: relative;
-    bottom: 0;
-}
-.card   img{
-   min-height: 253px;
-
-}
-.login-container{
-    margin-top: 5%;
-    margin-bottom: 5%;
-}
-.login-form-1{
-    padding: 5%;
-    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
-}
-.login-form-1 h3{
-    text-align: center;
-    color: #333;
-}
-
-.login-container form{
-    padding: 10%;
-}
-.btnSubmit
-{
-    width: 50%;
-    border-radius: 1rem;
-    padding: 1.5%;
-    border: none;
-    cursor: pointer;
-}
-.login-form-1 .btnSubmit{
-    font-weight: 600;
-    color: #fff;
-    background-color: #0062cc;
-}
-
-.login-form-1 .ForgetPwd{
-    color: #0062cc;
-    font-weight: 600;
-    text-decoration: none;
+.footer-part2-2 {
+  display: flex;
+  justify-content: center;
 }
