@@ -1,8 +1,12 @@
 <?php include("navbar.php"); ?>
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #D58206;">
     <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse collapse show" id="navbarSupportedContent">
         <ul class="navbar-nav" style = "margin: auto">
           <li class="nav-item active">
             <a class="nav-link" href="index.php" style="margin-left: 60px;">All <span class="sr-only">(current)</span></a>
