@@ -51,12 +51,15 @@ h4 {
 }
 .footer-part2 * {
   /* margin: 15px; */
-  display: inline;
+  display: inline-block;
 }
 .line {
   width: 1px;
-  height: 20px;
+  height: 14px;
   background-color: #707070;
+  margin: 0 4px;
+  position: relative;
+  top: 2px;
 
 }
 /* .footer-part2-1 {
