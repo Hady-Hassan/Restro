@@ -8,9 +8,7 @@
           <div class="card" style="border-radius: 15px;">
             <div class="card-body p-5">
               <h2 class="text-uppercase text-center mb-5">Register</h2>
-
               <form>
-
                 <div class="form-outline mb-4">
                   <label class="form-label" for="form3Example1cg">Full Name</label>
                   <input type="text" id="form3Example1cg" class="form-control form-control-lg" />
