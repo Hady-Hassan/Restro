@@ -12,7 +12,6 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">  
   <title><?php echo $page_title; ?></title>
-  <script src="js/jquery-3.6.0.min.js"></script>
  <style>
 
   </style>
@@ -22,15 +21,16 @@
   <!-- Start Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #FF9900; margin: bottom 5px;">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">
-        <img src="images\logo.png" width="70" height="70" alt="" style="margin-right: 50px;">
-      </a>
+        <a class="navbar-brand" href="#">
+          <img src="images\logo.png" width="70" height="70" alt="" style="margin-right: 50px;">
+        </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
         aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
         <ul class="navbar-nav" style = "margin: auto">
           <li class="nav-item active">
             <a class="nav-link" href="index.php" style="margin-left: 60px;">Food <span class="sr-only">(current)</span></a>
@@ -47,6 +47,8 @@
           </li>
 
         </ul>
+
+
         <div class="dropdown ml-auto" style="margin-right: 17px;">
         <button class="btn btn-secondary dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown"
           aria-haspopup="true" style="background-color: #D58206;" aria-expanded="false">
