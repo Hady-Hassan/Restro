@@ -39,11 +39,11 @@
 <!--the slider should end here-->
 
 <div class="container ">
-    <div class="product  ">
-      <h3 class="text-left py-2" id="pro">All </h3>
+    <div class="product t py-2 ">
+      <h3 class="text-lef" id="pro">All </h3>
       <div class="row justify-content-center text-left">
         
-        <div class="card col-md-4 text-center" style="width: 18rem; border: 3px solid #FF9900;">
+        <div class="card col-md-4 text-center" style="">
           <img class="card-img-top" src="assets\pics\images (1).jpg" alt="Card image cap" style="margin-top : 20px;">
           <div class="card-body">
           <h5 class="card-title">Pizza</h5>

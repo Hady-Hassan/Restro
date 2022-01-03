@@ -111,3 +111,7 @@ color:#fff;
    max-height: 253px;
    max-width: 253px;
 }   
+.product .card,
+.offer .card{
+  width: 18rem; border: 3px solid #FF9900;
+}
