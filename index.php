@@ -37,13 +37,35 @@
 <!--the slider should start here-->
 
 <!--the slider should end here-->
-<div class="card border-warning-5" style="width: 18rem;">
-  <img class="card-img-top" src="..." alt="Card image cap">
-  <div class="card-body">
-    <h5 class="card-title">Pizza</h5>
-    <p class="card-text">25$ <input type="number" value="1" min="1" max="1000" step="1" id="spinner" style="width: 50%;"/> </p>
-    <a href="#" class="btn" style="background-color: #FF9900; color:white;">Add</a>
-  </div>
+
+<div class="container ">
+    <div class="product  ">
+      <h3 class="text-left py-2" id="pro">All </h3>
+      <div class="row justify-content-center text-left">
+        
+        <div class="card col-md-4 text-center" style="width: 18rem; border: 3px solid #FF9900;">
+          <img class="card-img-top" src="assets\pics\images (1).jpg" alt="Card image cap" style="margin-top : 20px;">
+          <div class="card-body">
+          <h5 class="card-title">Pizza</h5>
+          <div class="input-group">
+          <input type="text" class="form-control" placeholder="Add your notes here" aria-label="Recipient's username" aria-describedby="basic-addon2">
+          </div>
+          <p class="card-text" style="margin: 20px;">25$ <input type="number" value="1" min="1" max="1000" step="1" id="spinner" style="width: 50%;"/> </p>
+          
+          <a href="#" class="btn" style="background-color: #FF9900; color:white;">Add</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
 </div>
+
+
+
+
+
+
+
+
 
 <?php include("footer.php"); ?>
