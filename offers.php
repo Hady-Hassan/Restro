@@ -7,7 +7,7 @@
 
   <div class="container">
     <div class="product t py-2 ">
-      <h3 class="text-lef" id="pro">All </h3>
+      <h3 class="text-lef" id="pro">Offers </h3>
       <div class="row justify-content-center text-left">
 
         <div class="card col-md-4 text-center" style="">
@@ -44,7 +44,7 @@
         <img src="">
       </div>
 
-      <h3>All</h3>
+      
 
       <div class="row justify-content-center text-left">
 
