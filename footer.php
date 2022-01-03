@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <footer class="footerall row">
+    <footer class="footerall">
         <div>
             <section class="footer-part1">
                 <div class="footer-part1-1">
@@ -83,8 +83,12 @@
             </section>
         </div>
     </footer>
-    <script src="js/script.js"></script>
+    <script src="js/jquery-3.6.0.min.js" ></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap-input-spinner.js"></script>
+    <script src="js/script.js"></script>
+
 </body>
 
 </html>
