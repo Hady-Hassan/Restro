@@ -39,7 +39,28 @@
     </div>
   </nav>
 <!--the slider should start here-->
+<div class="slider">
+    <div class="owl-carousel owl-theme owl-loaded">
+      <div class="owl-stage-outer">
+        <div class="owl-stage">
+      
+          <div class="owl-item">
+            <div class="product_image">
+              <img src="images\products\1.jpeg" style="height:300px ;width:300px">
+            </div>
+            <div class="product_title">
+              <a href="#"></a>
+            </div>
+          </div>
+         
+        </div>
+      </div>
+      <div class="owl-nav">
+        <div class="owl-play play">Play</div>
+        <div class="owl-stop stop">Stop</div>
+      </div>
 
+    </div>
 <!--the slider should end here-->
 
 <div class="container ">
