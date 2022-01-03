@@ -29,7 +29,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse  collapse show" id="navbarSupportedContent">
 
         <ul class="navbar-nav" style = "margin: auto">
           <li class="nav-item active">
@@ -49,7 +49,7 @@
         </ul>
 
 
-        <div class="dropdown ml-auto" style="margin-right: 17px;">
+        <div class="dropdown" style="">
         <button class="btn btn-secondary dropdown-toggle " type="button" id="dropdownMenuButton" data-toggle="dropdown"
           aria-haspopup="true" style="background-color: #D58206;" aria-expanded="false">
           <i class="fa fa-user-circle" aria-hidden="true"></i> My Account
@@ -68,7 +68,9 @@
         
       </div>
     </div>
-    <script src="js/jquery-3.6.0.min.js" ></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
   </nav>
+  
+
+  <!-- <script src="js/jquery-3.6.0.min.js" ></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script> -->
