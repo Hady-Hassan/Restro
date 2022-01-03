@@ -9,47 +9,16 @@
     <link rel="stylesheet" href="css/style.css">
     <title>Document</title>
 </head>
-
 <body>
-    <footer class="footerall">
-        <div>
-            <section class="footer-part1">
-                <div class="footer-part1-1">
-                    <h4>more about Resturant</h4>
+    <footer class="footerall text-center">
+        <div class="container-fluid">
+            <section class="footer-part1  row">
+                <div class="footer-part1-1 col-md-4  text-center">
+                    <h4>More about Resturant</h4>
                     <p>in our smart Resturantyou can you can enjoy your time
                         <br> and save your time book a table Easily every thing
                         <br> is measured for your happiness
                     </p>
-                    <p class="ceo">-7ox fox CEO</p>
-                </div>
-                <div class="footer-part1-2">
-                    <h4>keep connected</h4>
-                    <div>
-                        <div class="footer-icon">
-                            <img src="assets/facebook.png" alt="facebook">
-                            <p>like us on facebook</p>
-                        </div>
-                        <div class="footer-icon">
-                            <img src="assets/twitter.png" alt="twitter">
-                            <p>follow us on twitter</p>
-                        </div>
-                        <div class="footer-icon">
-                            <img src="assets/instagram.png" alt="instagram">
-                            <p>follow us on instagram</p>
-                        </div>
-                        <div class="footer-icon">
-                            <img src="assets/pinterest.png" alt="pinterest">
-                            <p>follow us on pinterest</p>
-                        </div>
-                        <div class="footer-icon">
-                            <img src="assets/whatsapp.png" alt="whatsapp">
-                            <p>message us on whatsapp</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="footer-part1-3">
-                    <h4>contact information</h4>
-                    <div>
                     <!-- <p class="ceo">-7ox fox CEO</p> -->
                 </div>
                 <div class="footer-part1-2 col-md-4 text-center">
@@ -97,30 +66,6 @@
                     </div>
                 </div>
             </section>
-<<<<<<< HEAD
-            <section class="footer-part2">
-                <div class="footer-part2-1">
-                    <p>Copyright Â© 2021 Simone. All Rights Reserved.</p>
-                    <div class="line"></div>
-                    <h4>Restro</h4>
-                </div>
-                <div class="footer-part2-2">
-                    <p>company information</p>
-                    <div class="line"></div>
-                    <p>Terms & Policy</p>
-                    <div class="line"></div>
-                    <p>our team</p>
-                </div>
-            </section>
-        </div>
-    </footer>
-    <script src="js/jquery-3.6.0.min.js" ></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/popper.min.js"></script>
-    <script src="js/bootstrap-input-spinner.js"></script>
-    <script src="js/script.js"></script>
-
-=======
         </div>
         <section class="footer-part2  row">
             <div class="footer-part2-1 col-md-6 ">
@@ -137,12 +82,9 @@
             </div>
         </section>
     </footer>
-
     <script src="js/jquery-3.6.0.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
->>>>>>> bf794804aaf0390b5a4d39711bd79ce505663249
 </body>
-
 </html>

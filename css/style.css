@@ -26,37 +26,43 @@ h4 {
 .ceo {
   padding-left: 270px;
 }
-.footer-part1-2 img {
-  width: 35px;
-  height: 35px;
-}
+
 .footer-icon {
-  display: flex;
+  /* display: flex; */
   margin: 10px 0px;
 }
-.footer-icon img {
-  margin-right: 10px;
+.footer-icon * {
+  display: inline-block;
 }
-.footer-part1-3 img {
+.footer-icon img {
+  /* margin-right: 10px; */
+}
+/* .footer-part1-3 img {
   width: 35px;
   height: 35px;
-}
+} */
 /****************** part 2*********************************/
 .footer-part2 {
   background-color: #221e1b;
-  height: 75px;
+  /* height: 75px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-evenly; */
+  padding: 15px;
 }
 .footer-part2 * {
-  margin: 15px;
+  /* margin: 15px; */
+  display: inline-block;
 }
 .line {
   width: 1px;
-  height: 20px;
+  height: 14px;
   background-color: #707070;
+  margin: 0 4px;
+  position: relative;
+  top: 2px;
+
 }
-.footer-part2-1 {
+/* .footer-part2-1 {
   display: flex;
   justify-content: space-between;
 }
