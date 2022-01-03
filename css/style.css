@@ -98,3 +98,16 @@ color:#fff;
 .gradient-custom-4:visited {
   background: #d37e00;
 }
+
+.offer
+{
+    margin: 17px;
+    padding: 10px 0;
+
+}
+
+.offer img{
+   /* width: 18rem; */
+   max-height: 253px;
+   max-width: 253px;
+}   
