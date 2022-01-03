@@ -11,10 +11,10 @@
 </head>
 
 <body>
-    <footer class="footerall row">
-        <div>
-            <section class="footer-part1">
-                <div class="footer-part1-1">
+    <footer class="footerall text-center">
+        <div class="container-fluid">
+            <section class="footer-part1  row">
+                <div class="footer-part1-1 col-md-4  text-center">
                     <h4>more about Resturant</h4>
                     <p>in our smart Resturantyou can you can enjoy your time
                         <br> and save your time book a table Easily every thing
@@ -22,7 +22,7 @@
                     </p>
                     <p class="ceo">-7ox fox CEO</p>
                 </div>
-                <div class="footer-part1-2">
+                <div class="footer-part1-2 col-md-4 text-center">
                     <h4>keep connected</h4>
                     <div>
                         <div class="footer-icon">
