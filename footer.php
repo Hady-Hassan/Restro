@@ -50,6 +50,36 @@
                 <div class="footer-part1-3">
                     <h4>contact information</h4>
                     <div>
+                    <!-- <p class="ceo">-7ox fox CEO</p> -->
+                </div>
+                <div class="footer-part1-2 col-md-4 text-center">
+                    <h4>keep Connected</h4>
+                    <div class="text-left">
+                        <div class="footer-icon  ">
+                            <img src="assets/facebook.png" alt="facebook">
+                            <p>Like us on Facebook</p>
+                        </div>
+                        <div class="footer-icon ">
+                            <img src="assets/twitter.png" alt="twitter">
+                            <p>Follow us on Twitter</p>
+                        </div>
+                        <div class="footer-icon ">
+                            <img src="assets/instagram.png" alt="instagram">
+                            <p>Follow us on Instagram</p>
+                        </div>
+                        <div class="footer-icon ">
+                            <img src="assets/pinterest.png" alt="pinterest">
+                            <p>Follow us on Pinterest</p>
+                        </div>
+                        <div class="footer-icon ">
+                            <img src="assets/whatsapp.png" alt="whatsapp">
+                            <p>Message us on Whatsapp</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-part1-3 col-md-4 text-center">
+                    <h4>Contact Information</h4>
+                    <div class="text-left">
                         <div class="footer-icon">
                             <img src="assets/home (1).png" alt="home">
                             <p>4th Floor, Plot No.22,<br>
@@ -67,6 +97,7 @@
                     </div>
                 </div>
             </section>
+<<<<<<< HEAD
             <section class="footer-part2">
                 <div class="footer-part2-1">
                     <p>Copyright Â© 2021 Simone. All Rights Reserved.</p>
@@ -89,6 +120,29 @@
     <script src="js/bootstrap-input-spinner.js"></script>
     <script src="js/script.js"></script>
 
+=======
+        </div>
+        <section class="footer-part2  row">
+            <div class="footer-part2-1 col-md-6 ">
+                <p>Copyright Â© 2021 Simone. All Rights Reserved.</p>
+                <div class="line"></div>
+                <h4>Restro</h4>
+            </div>
+            <div class="footer-part2-2 col-md-6">
+                <p>Company Information</p>
+                <div class="line"></div>
+                <p>Terms & Policy</p>
+                <div class="line"></div>
+                <p>our team</p>
+            </div>
+        </section>
+    </footer>
+
+    <script src="js/jquery-3.6.0.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+>>>>>>> bf794804aaf0390b5a4d39711bd79ce505663249
 </body>
 
 </html>
